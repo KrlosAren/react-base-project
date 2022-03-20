@@ -1,4 +1,4 @@
-import Navigation from './routes/routes';
+import Navigation from './routes/Navigation';
 
 const App = () => {
   return (
